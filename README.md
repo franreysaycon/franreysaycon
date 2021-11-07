@@ -1,8 +1,5 @@
 <img src="./Art_Whole.png" width="300px" />
 
-# Adventures with code.
-## Franrey Anthony S. Saycon
-
 ### Welcome! 👋 Plus ultra! 👊
 I am a software engineer specializing in architecting solutions and building web/mobile applications.<br />
 I’m an experienced team lead and able to drive product and project management. <br />
