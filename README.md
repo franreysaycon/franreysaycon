@@ -1,4 +1,4 @@
-<img src="./Cube.png" width="200px" height="200px" />
+<img src="./Art_Whole.png" width="300px" />
 
 # Adventures with code.
 ## Franrey Anthony S. Saycon
