@@ -1,4 +1,4 @@
-<center><img src="./Art_Whole.png" width="300px" /></center>
+<img src="./Art_Whole.png" width="350px" />
 
 ### Welcome! 👋 Plus ultra! 👊
 I am a software engineer specializing in architecting solutions and building web/mobile applications.<br />
