@@ -17,7 +17,7 @@ I'm also diving into the crypto world. P2E is a dream come true! <br />
 
 ### Some Fancy Links 🐲
 - Website: https://fsaycon.dev
-- Github: https://github.com/franreysaycon
+- Linkedin: https://www.linkedin.com/in/fssaycon/
 - StackOverflow: https://stackoverflow.com/users/10049080/franrey-saycon
 
 Want to work together? Reach out to me at me@fsaycon.dev!
