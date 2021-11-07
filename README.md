@@ -1,17 +1,15 @@
-### Hi there 👋
-<img src="./Cube.png" />
+<img src="./Cube.png" width="200px" height="200px" />
+## Adventures with code.
+### Franrey Anthony S. Saycon
 
-<!--
-**franreysaycon/franreysaycon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome! Plus ultra! 👋
+I am a software engineer specializing in architecting solutions and building web/mobile applications.
+I’m an experienced team lead and able to drive product and project management.
+I’m also a public speaker and tech community leader.
+I contribute to open source and help fellow developers as much as I can.
 
-Here are some ideas to get you started:
+Website: https://fsaycon.dev
+Github: https://github.com/franreysaycon
+StackOverflow: https://stackoverflow.com/users/10049080/franrey-saycon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to work together? Reach out to me at me@fsaycon.dev!
