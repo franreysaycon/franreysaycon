@@ -1,7 +1,7 @@
 <img src="./Cube.png" width="200px" height="200px" />
 
-## Adventures with code.
-### Franrey Anthony S. Saycon
+# Adventures with code.
+## Franrey Anthony S. Saycon
 
 ### Welcome! 👋 Plus ultra! 👊
 I am a software engineer specializing in architecting solutions and building web/mobile applications.<br />
